@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Calculate</string>
+    <string name="calculate_percentage">Calculate Percentage</string>
+    <string name="choose_desired_option">Choose Desired Option</string>
+    <string name="calculate_cgpa">Calculate Cgpa</string>
+    <string name="if_you_don_t_know_your_percentage">(If you don\'t know your percentage)</string>
+    <string name="if_you_know_your_percentage">(If you know your percentage)</string>
+    <string name="your_marks">Your Marks</string>
+    <string name="total_marks">Total Marks</string>
+    <string name="enter_marks_below">Enter Marks Below</string>
+    <string name="enter_percentage_below">Enter Percentage Below</string>
+    <string name="calculate">Calculate</string>
+    <string name="percentage">Percentage</string>
+    <string name="teddy">Teddy</string>
+</resources>
